@@ -1,0 +1,13 @@
+~$*
+.conda
+.venv
+_build/
+*.zip
+*/.ipynb_checkpoints
+.ipynb_checkpoints
+*.DS_Store
+*/.DS_Store
+.DS_Store
+06Foundation/02AICluster/.DS_Store
+06Foundation/01Introduce/.DS_Store
+06Foundation/02AICluster/.DS_Store
