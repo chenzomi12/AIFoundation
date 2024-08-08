@@ -1,0 +1,2 @@
+add_subdirectory(communicator)
+add_subdirectory(executor)
