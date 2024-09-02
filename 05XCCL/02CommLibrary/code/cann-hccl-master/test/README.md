@@ -1,2 +1,0 @@
-# hisi_hccl
-test
