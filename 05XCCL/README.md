@@ -1,6 +1,6 @@
 <!--Copyright © ZOMI 适用于[License](https://github.com/chenzomi12/AIFoundation)版权许可-->
 
-# 通信架构
+# 通信架构(DONE)
 
 通信架构主要是指各种类型的 XCCL 集合通信库，大模型在推理的 PD 分离和分布式训练，都对集合通信库有很强烈的诉求，网络模型的参数需要相互传递，因此 XCCL 极大帮助大模型更好地训练和推理。
 
