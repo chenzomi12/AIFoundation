@@ -16,9 +16,9 @@
 | 大模型热点 | 世界模型 02：Google Genie | [PPT](./20240228_WordModel.pdf), [视频](https://www.bilibili.com/video/BV1b6421F7Tq) |
 | 大模型热点 | 世界模型 03：META JEPA | [PPT](./20240228_WordModel.pdf), [视频](https://www.bilibili.com/video/BV1v1421Q73e) |
 | 大模型热点 | 世界模型 04：真正世界模型？ | [PPT](./20240228_WordModel.pdf), [视频](https://www.bilibili.com/video/BV1GZ421t7jr) |
-| 大模型热点 | 世界模型 05：NVIDIA COSMOS | [PPT](./20250112Cosmos.pdf), [视频]() |
-|:--:|:--:|:--:|
-| 大模型热点 | 英伟达 CES 2025 发布会 | [PPT](./20250110NVCES.pdf), [视频]() |
+| 大模型热点 | 世界模型 05：NVIDIA COSMOS | [PPT](./20250112Cosmos.pdf), [视频](https://www.bilibili.com/video/BV18hwLeREUK/) |
+| | | |
+| 大模型热点 | 英伟达 CES 2025 发布会 | [PPT](./20250110NVCES.pdf), [视频](https://www.bilibili.com/video/BV1vjczebESC/) |
 
 ## 备注
 
