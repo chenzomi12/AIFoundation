@@ -40,87 +40,77 @@
 
 ### **[01. AI 芯片原理](./01AIChip/)**
 
-完结
-
-| 编号  | 名称       | 具体内容      |
-|:---:|:----- |:--- |
-| 1      | [AI 计算体系](./01AIChip/01Foundation/) | 神经网络等 AI 技术的计算模式和计算体系架构  |
-| 2      | [AI 芯片基础](./01AIChip/02ChipBase/)   | CPU、GPU、NPU 等芯片体系架构基础原理       |
-| 3      | [图形处理器 GPU](./01AIChip/03GPUBase/)  | GPU 的基本原理，英伟达 GPU 的架构发展  |
-| 4      | [英伟达 GPU 详解](./01AIChip/04NVIDIA/) | 英伟达 GPU 的 Tensor Core、NVLink 深度剖析 |
-| 5      | [国外 AI 处理器](./01AIChip/05Abroad/)   | 谷歌、特斯拉等专用 AI 处理器核心原理  |
-| 6      | [国内 AI 处理器](./01AIChip/06Domestic/)   | 寒武纪、燧原科技等专用 AI 处理器核心原理  |
-| 7      | [AI 芯片黄金 10 年](./01AIChip/07Thought/)   | 对 AI 芯片的编程模式和发展进行总结  |
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:--- |:--- |:--- |
+| 1      | [AI 计算体系](./01AIChip/01Foundation/) | 神经网络等 AI 技术的计算模式和计算体系架构  | DONE |
+| 2      | [AI 芯片基础](./01AIChip/02ChipBase/)   | CPU、GPU、NPU 等芯片体系架构基础原理       | DONE |
+| 3      | [图形处理器 GPU](./01AIChip/03GPUBase/)  | GPU 的基本原理，英伟达 GPU 的架构发展  | DONE |
+| 4      | [英伟达 GPU 详解](./01AIChip/04NVIDIA/) | 英伟达 GPU 的 Tensor Core、NVLink 深度剖析 | DONE |
+| 5      | [国外 AI 处理器](./01AIChip/05Abroad/)   | 谷歌、特斯拉等专用 AI 处理器核心原理  | DONE |
+| 6      | [国内 AI 处理器](./01AIChip/06Domestic/)   | 寒武纪、燧原科技等专用 AI 处理器核心原理  | DONE |
+| 7      | [AI 芯片黄金 10 年](./01AIChip/07Thought/)   | 对 AI 芯片的编程模式和发展进行总结  | DONE |
 
 ### **[02. 通信与存储](./02StorComm/)**
 
-完结
-
-| 编号  | 名称       | 具体内容      |
-|:---:|:----- |:--- |
-| 1      | [大模型存储](./02StorComm/01Storage/) | 数据存储、CheckPoint 梯度检查点  |
-| 2      | [集合通信原理](./02StorComm/02Communicate/) | 通信域、通信算法、集合通信原语  |
-| 3      | [集合通信库](./02StorComm/03CommLibrary/)   | 深入地剖析 NCCL/HCCL 实现算法、对外 API  |
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:--- |:--- |:--- |
+| 1      | [大模型存储](./02StorComm/01Storage/) | 数据存储、CheckPoint 梯度检查点  | DONE |
+| 2      | [集合通信原理](./02StorComm/02Communicate/) | 通信域、通信算法、集合通信原语  | DONE |
+| 3      | [集合通信库](./02StorComm/03CommLibrary/)   | 深入地剖析 NCCL/HCCL 实现算法、对外 API  | DONE |
 
 ### **[03. AI 集群原理](./03AICluster/)**
 
-待更
-
-| 编号  | 名称       | 具体内容      |
-|:---:|:----- |:--- |
-| 1      | [AI 超节点](./03AICluster/01POD/) | Scale Up、SuperPod、万卡集群  |
-| 2      | [集群性能分析](./03AICluster/02Analysis/) | 集群性能分析，MFU、线性度等  |
-| 3      | [Kubernetes](./03AICluster/03Kubernetes/) | 让集群部署容器化简单且高效  |
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:--- |:--- |:--- |
+| 1      | [AI 超节点](./03AICluster/01POD/) | Scale Up、SuperPod、万卡集群  | DONE |
+| 2      | [集群性能分析](./03AICluster/02Analysis/) | 集群性能分析，MFU、线性度等  | 待更 |
+| 3      | [Kubernetes](./03AICluster/03Kubernetes/) | 让集群部署容器化简单且高效  | 待更 |
 
 ### **[04. 大模型训练](./04Train/)**
 
-待更
-
-| 编号  | 名称       | 具体内容      |
-|:---:|:----- |:--- |
-| 1      | [分布式并行](./04Train/01Parallel/) | TP、PP、EP、SP、DP 多维并行  |
-| 2      | [PyTorch 框架](./04Train/02PyTorch/) | PyTorch 框架原理和昇腾适配架构  |
-| 3      | [模型微调与后训练](./04Train/03Finetune/) | 大模型微调 SFT 与后训练 Post-Training  |
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:--- |:--- |:--- |
+| 1      | [分布式并行](./04Train/01Parallel/) | TP、PP、EP、SP、DP 多维并行  | DONE |
+| 2      | [PyTorch 框架](./04Train/02PyTorch/) | PyTorch 框架原理和昇腾适配架构  | 待更 |
+| 3      | [模型微调与后训练](./04Train/03Finetune/) | 大模型微调 SFT 与后训练 Post-Training  | 待更 |
 
 ### **[05. 大模型推理](./05Infer/)**
 
-待更
-
-| 编号  | 名称       | 具体内容      |
-|:---:|:----- |:--- |
-| 1      | [大模型推理框架](./05Infer/01Foundation) | 推理框架整体架构，如 vLLM、SGLang |
-| 2      | [大模型推理加速](./05Infer/02SpeedUp) |  |
-| 3      | [架构调度与加速 ](./05Infer/03Dispatch) |  |
-| 4      | [长序列推理](./05Infer/04LongSeq) |  |
-| 5      | [输出采样](./05Infer/05Sampling) |  |
-| 6      | [大模型量化与蒸馏](./05Infer/06Quantize) |  |
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:--- |:--- |:--- |
+| 1      | [大模型推理框架](./05Infer/01Foundation) | 推理框架整体架构，如 vLLM、SGLang | 待更 |
+| 2      | [大模型推理加速](./05Infer/02SpeedUp) |  | 待更 |
+| 3      | [架构调度与加速 ](./05Infer/03Dispatch) |  | 待更 |
+| 4      | [长序列推理](./05Infer/04LongSeq) |  | 待更 |
+| 5      | [输出采样](./05Infer/05Sampling) |  | 待更 |
+| 6      | [大模型量化与蒸馏](./05Infer/06Quantize) |  | 待更 |
 
 ### **[06. 大模型算法](./06AlgoData/)**
 
-待更
+大部分待更，欢迎参与，06 根据时事热点不定期更新
 
 | 编号  | 名称       | 具体内容      | 状态      |
-|:---:|:---:|:---:|:---:|
-| 1      | [Transformer 架构](./06AlgoData/01Basic) | Transformer 架构原理介绍 | 待更 |
+|:---:|:--- |:--- |:--- |
+| 1      | [Transformer 架构](./06AlgoData/01Basic) | Transformer、MoE 的架构原理介绍 | 待更 |
 | 2      | [ChatGPT 解读](./06AlgoData/02ChatGPT) | GPT 和 ChatGPT 深度解读 | DONE |
-| 3      | [大模型新架构 ](./06AlgoData/03NewArch) | SSM、MMABA、RWKV 等新大模型结构 | 待更 |
-| 4      | [向量数据库](./06AlgoData/04VectorDB) | 相似性搜索、相似性度量与大模型结合 | DONE |
-| 5      | [数据工程](./06AlgoData/05DataEngine) | 数据工程、Prompt Engine 等技术 | 待更 |
-| 6      | [新算法解读](./06AlgoData/06NewModel) | Llama3、DeepSeek V3/R1 深度解读 | 持续 |
+| 3      | [大模型新架构 ](./06AlgoData/03NewArch) | SSM、MMABA、RWKV、Linear Transformer 等新大模型结构 | 待更 |
+| 4      | [向量数据库](./06AlgoData/04VectorDB) | 向量数据库中核心技术相似性搜索、相似性度量与大模型结合原理 | DONE |
+| 5      | [数据工程](./06AlgoData/05DataEngine) | 数据工程、Prompt Engine、Data2Vec 和 Tokenize 等相关技术 | 待更 |
+| 6      | [新算法解读](./06AlgoData/06NewModel) | Llama3、DeepSeek V3/R1、KIMI R1.5 等最新大模型算法的深度解读 | 持续 |
 
 ### **[07. 热点技术剖析](./07News/)**
 
-基本完结，根据时事热点不定期更新
+基本完结，01 根据时事热点不定期更新
 
 | 编号  | 名称       | 具体内容      | 状态      |
-|:---:|:---:|:---:|:---:|
+|:---:|:--- |:--- |:--- |
 | 1      | [时事热点](./07News/00Others/)   |  OpenAI o1、WWDC 大会技术洞察   | 持续 |
 | 2      | [AI智能体](./07News/01Agent/)   | AI Agent 智能体的原理、架构   | DONE |
-| 3      | [自动驾驶](./07News/02AutoDrive/)   |  端到端自动驾驶和萝卜快跑  | DONE |
-| 4      | [具身智能](./07News/03Embodied/)   |  具身智能的原理、架构和产业思考  | DONE |
-| 5      | [生成推荐](./07News/04Remmcon/)   |  推荐领域的革命发展历程  | DONE |
-| 6      | [隐私计算](./07News/05Computer/)   |  发展过程与 Apple 引入隐私计算  | DONE |
-| 7      | [AI 十年](./07News/06History/)   |  AI 过去十年的重点事件回顾  | DONE |
+| 3      | [自动驾驶](./07News/02AutoDrive/)   |  端到端自动驾驶技术原理解析，萝卜快跑对产业带来的变化  | DONE |
+| 4      | [具身智能](./07News/03Embodied/)   |  关于对具身智能的技术原理、具身架构和产业思考  | DONE |
+| 5      | [生成推荐](./07News/04Remmcon/)   |  推荐领域的革命发展历程，大模型迎来了生成式推荐新的增长  | DONE |
+| 6      | [隐私计算](./07News/05Computer/)   |  隐私计算的发展过程与 Apple 引入隐私计算，到底隐私计算未来发展如何？  | DONE |
+| 7      | [AI 十年](./07News/06History/)   |  AI 过去十年的重点事件回顾，从 2012 到 2025 年从模型、算法、芯片硬件到产业  | DONE |
 
 ## 知识清单
 
