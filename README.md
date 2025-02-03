@@ -99,19 +99,28 @@
 
 待更
 
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:---:|:---:|:---:|
+| 1      | [Transformer 架构](./06AlgoData/01Basic) | Transformer 架构原理介绍 | 待更 |
+| 2      | [ChatGPT 解读](./06AlgoData/02ChatGPT) | GPT 和 ChatGPT 深度解读 | DONE |
+| 3      | [大模型新架构 ](./06AlgoData/03NewArch) | SSM、MMABA、RWKV 等新大模型结构 | 待更 |
+| 4      | [向量数据库](./06AlgoData/04VectorDB) | 相似性搜索、相似性度量与大模型结合 | DONE |
+| 5      | [数据工程](./06AlgoData/05DataEngine) | 数据工程、Prompt Engine 等技术 | 待更 |
+| 6      | [新算法解读](./06AlgoData/06NewModel) | Llama3、DeepSeek V3/R1 深度解读 | 持续 |
+
 ### **[07. 热点技术剖析](./07News/)**
 
 基本完结，根据时事热点不定期更新
 
-| 编号  | 名称       | 具体内容      |
-|:---:|:----- |:--- |
-| 1      | [时事热点](./09News/00Others/)   |  OpenAI o1、WWDC 大会技术洞察   |
-| 2      | [AI智能体](./09News/01Agent/)   | AI Agent 智能体的原理、架构   |
-| 3      | [自动驾驶](./09News/02AutoDrive/)   |  端到端自动驾驶和萝卜快跑  |
-| 4      | [具身智能](./09News/03Embodied/)   |  具身智能的原理、架构和产业思考  |
-| 5      | [生成推荐](./09News/04Remmcon/)   |  推荐领域的革命发展历程  |
-| 6      | [隐私计算](./09News/05Computer/)   |  发展过程与 Apple 引入隐私计算  |
-| 7      | [AI 十年](./09News/06History/)   |  AI 过去十年的重点事件回顾  |
+| 编号  | 名称       | 具体内容      | 状态      |
+|:---:|:---:|:---:|:---:|
+| 1      | [时事热点](./07News/00Others/)   |  OpenAI o1、WWDC 大会技术洞察   | 持续 |
+| 2      | [AI智能体](./07News/01Agent/)   | AI Agent 智能体的原理、架构   | DONE |
+| 3      | [自动驾驶](./07News/02AutoDrive/)   |  端到端自动驾驶和萝卜快跑  | DONE |
+| 4      | [具身智能](./07News/03Embodied/)   |  具身智能的原理、架构和产业思考  | DONE |
+| 5      | [生成推荐](./07News/04Remmcon/)   |  推荐领域的革命发展历程  | DONE |
+| 6      | [隐私计算](./07News/05Computer/)   |  发展过程与 Apple 引入隐私计算  | DONE |
+| 7      | [AI 十年](./07News/06History/)   |  AI 过去十年的重点事件回顾  | DONE |
 
 ## 知识清单
 
