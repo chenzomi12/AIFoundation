@@ -18,7 +18,8 @@
 | 新算法解读 | 2014.07 Mate-Llama3 深度解读  | [PPT](./20240724_LLAMA3.1.pdf), [视频](https://www.bilibili.com/video/BV1Xf421v7Go/) |
 | 新算法解读 | 2014.07 开源与闭源之争  | [PPT](./20240725_Open.pdf), [视频](https://www.bilibili.com/video/BV1ZZ421N7Af/) |
 | 新算法解读 | 2015.01 DeepSeek-V3 深度解读  | [PPT](./20250107DeepSeekV3.pdf), [视频](https://www.bilibili.com/video/BV1hRcGemErK/) |
-| 新算法解读 | 2015.01 DeepSeek-R3 深度解读 | [PPT](./20250120DeepSeekR1.pdf), [视频](https://www.bilibili.com/video/BV1dHw4e8E3e/) |
+| 新算法解读 | 2015.01 DeepSeek-R1 深度解读 | [PPT](./20250120DeepSeekR1.pdf), [视频](https://www.bilibili.com/video/BV1dHw4e8E3e/) |
+| 新算法解读 | 2015.01 KIMI-K1.5 深度解读 | [PPT](./20250203KIMIK1.5.pdf), [视频]() |
 
 ## 备注
 

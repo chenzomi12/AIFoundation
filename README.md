@@ -44,11 +44,11 @@
 |:---:|:--- |:--- |:--- |
 | 1      | [AI 计算体系](./01AIChip/01Foundation/) | 神经网络等 AI 技术的计算模式和计算体系架构  | DONE |
 | 2      | [AI 芯片基础](./01AIChip/02ChipBase/)   | CPU、GPU、NPU 等芯片体系架构基础原理       | DONE |
-| 3      | [图形处理器 GPU](./01AIChip/03GPUBase/)  | GPU 的基本原理，英伟达 GPU 的架构发展  | DONE |
+| 3      | [图形处理器 GPU](./01AIChip/03GPUBase/)  | GPU 的基本原理，英伟达 GPU 过去 15 年 8 代架构发展  | DONE |
 | 4      | [英伟达 GPU 详解](./01AIChip/04NVIDIA/) | 英伟达 GPU 的 Tensor Core、NVLink 深度剖析 | DONE |
-| 5      | [国外 AI 处理器](./01AIChip/05Abroad/)   | 谷歌、特斯拉等专用 AI 处理器核心原理  | DONE |
-| 6      | [国内 AI 处理器](./01AIChip/06Domestic/)   | 寒武纪、燧原科技等专用 AI 处理器核心原理  | DONE |
-| 7      | [AI 芯片黄金 10 年](./01AIChip/07Thought/)   | 对 AI 芯片的编程模式和发展进行总结  | DONE |
+| 5      | [国外 AI 处理器](./01AIChip/05Abroad/)   | 国外在谷歌 TPU、特斯拉 DOJO 等专用 AI 处理器核心原理  | DONE |
+| 6      | [国内 AI 处理器](./01AIChip/06Domestic/)   | 华为昇腾 Ascend、寒武纪、燧原科技等专用 AI 处理器核心原理  | DONE |
+| 7      | [AI 芯片黄金 10 年](./01AIChip/07Thought/)   | 对 AI 芯片的编程模式（SIMT、SIMD、SPMD、CUDA）和发展进行总结  | DONE |
 
 ### **[02. 通信与存储](./02StorComm/)**
 
@@ -96,7 +96,7 @@
 | 3      | [大模型新架构 ](./06AlgoData/03NewArch) | SSM、MMABA、RWKV、Linear Transformer 等新大模型结构 | 待更 |
 | 4      | [向量数据库](./06AlgoData/04VectorDB) | 向量数据库中核心技术相似性搜索、相似性度量与大模型结合原理 | DONE |
 | 5      | [数据工程](./06AlgoData/05DataEngine) | 数据工程、Prompt Engine、Data2Vec 和 Tokenize 等相关技术 | 待更 |
-| 6      | [新算法解读](./06AlgoData/06NewModel) | Llama3、DeepSeek V3/R1、KIMI R1.5 等最新大模型算法的深度解读 | 持续 |
+| 6      | [新算法解读](./06AlgoData/06NewModel) | Llama3.3、DeepSeek V3/R1、KIMI R1.5 等最新大模型算法的深度解读 | 持续 |
 
 ### **[07. 热点技术剖析](./07News/)**
 
@@ -110,7 +110,7 @@
 | 4      | [具身智能](./07News/03Embodied/)   |  关于对具身智能的技术原理、具身架构和产业思考  | DONE |
 | 5      | [生成推荐](./07News/04Remmcon/)   |  推荐领域的革命发展历程，大模型迎来了生成式推荐新的增长  | DONE |
 | 6      | [隐私计算](./07News/05Computer/)   |  隐私计算的发展过程与 Apple 引入隐私计算，到底隐私计算未来发展如何？  | DONE |
-| 7      | [AI 十年](./07News/06History/)   |  AI 过去十年的重点事件回顾，从 2012 到 2025 年从模型、算法、芯片硬件到产业  | DONE |
+| 7      | [AI 十年](./07News/06History/)   |  AI 过去十年的重点事件回顾，2012 到 2025 年模型、算法、芯片硬件的发展  | DONE |
 
 ## 知识清单
 
